@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Aisosa 👋🏾 👩🏾‍💻
-![Header](./github-header-image.png)
+# Hi, I'm Aisosa 👋🏾 👩🏾‍💻, Frontend web developer
+<!-- ![Header](./github-header-image.png)
 <br>
-I am a software developer that is passionate about creative problem-solving and continous innovation, who  loves and enjoys the process of transforming ideas and designs into interactive, visually appealing websites.
+I am a software developer that is passionate about creative problem-solving and continous innovation, who  loves and enjoys the process of transforming ideas and designs into interactive, visually appealing websites.-->
 - 📫 How to reach me: **allysonaghedo@gmail.com**
 - 😄 Pronouns: she/her
 
